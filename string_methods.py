@@ -18,4 +18,4 @@ print(course.find('P'))#returns the position of first occurance of the letter
 print(course.find('Q'))#find
 print(course.replace('Beginners','Vitians'))#find and replace
 #replcae replaces it temporarily
-print("Beginners" in course)
+print("Beginners" in course)#returns if it exists or not
