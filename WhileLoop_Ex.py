@@ -9,3 +9,8 @@ while i<3:
     else:
         print("You lost")
     i = i+1
+else:
+    print("your chances are over")
+
+#While loop also have else clause like if
+#it will get executed when while loop fails
